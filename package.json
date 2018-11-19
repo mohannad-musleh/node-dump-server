@@ -1,0 +1,12 @@
+{
+  "name": "node-dump-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "mohannad-musleh",
+  "license": "MIT"
+}
